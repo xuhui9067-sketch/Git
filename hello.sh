@@ -3,4 +3,6 @@ echo "hello world"
 echo "hello Linux"
 
 echo "hello user"
+echo "Hello xh"
+
 echo "fix error"
